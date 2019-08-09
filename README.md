@@ -11,4 +11,4 @@ The core code is in `classes/AB.m`. `scripts/create_tpdf_gradient.m` creates MAT
 
 This class was developed for research. We hope that it will be useful for other researchers, but the code is provided as is. We do not intend to implement new features nor support it.
 
-The code was tested on MATLAB 2017a in OSX and on an UNIX cluster. Some of the functions use knitro. The bisection.m function is by Sky Sartorius as explained in the license.
+The code was tested on MATLAB 2017a on OSX and on a UNIX cluster. Some of the functions use knitro. The bisection.m function is by Sky Sartorius as explained in the license.
